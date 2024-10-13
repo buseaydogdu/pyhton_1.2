@@ -5,3 +5,5 @@ print("naber","soru")
 input()
 
 buse
+selam
+
